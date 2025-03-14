@@ -1,6 +1,6 @@
-# Hi, I'm Matheus 👋
+# Hello, I'm Matheus 👋
 
-## 🚀 About Me
+## 🤍 About Me
 I am a junior Java developer, looking to learn and improve my skills to deliver high-quality solutions.
 
 ## 🛠 Technologies I use
