@@ -1,8 +1,7 @@
 # Hi, I'm Matheus 👋
 
 ## 🚀 About Me
-I am a junior Java developer.
-Looking to learn and improve my skills to deliver high-quality solutions.
+I am a junior Java developer, looking to learn and improve my skills to deliver high-quality solutions.
 
 ## 🛠 Technologies I use
 - **Java** | **Spring Boot** | **Stripes** | **MyBatis**
@@ -11,10 +10,10 @@ Looking to learn and improve my skills to deliver high-quality solutions.
 
 ## 💻 Software Development
 - Development of RESTful APIs with Spring Boot.
-- Always trying to use SOLID principies.
+- Always striving to apply SOLID principles.
 - Database setup and configuration (MySQL) for development environments.
 - Creation of automated tests using JUnit.
-- Front-end development with jQuery, HTML5, CSS3, and integration with back-end.
+- Front-end development with jQuery, HTML5, CSS3, and integration with the back-end.
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matheus-Malara&show_icons=true&hide_title=true&count_private=true&hide=prs)
